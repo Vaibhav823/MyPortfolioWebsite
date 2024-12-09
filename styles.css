@@ -1,0 +1,62 @@
+body {
+  background-color: beige;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+}
+
+h3 {
+  font-style: oblique;
+  font-size: larger;
+}
+
+p {
+  font-style: oblique;
+  font-size: larger;
+}
+
+li {
+  font-style: oblique;
+  font-size: larger;
+}
+
+td {
+  font-style: oblique;
+  font-size: larger;
+}
+
+form {
+  text-align: center;
+  font-style: oblique;
+  font-size: larger;
+}
+
+input {
+  font-style: oblique;
+  font-size: larger;
+}
+
+em {
+  font-style: oblique;
+  font-size: larger;
+}
+
+textarea {
+  position: relative;
+  left: 62px;
+  bottom: 23px;
+}
+
+.message {
+  position: relative;
+  right: 130px;
+}
+
+.submit {
+  position: relative;
+  left: 40px;
+}
